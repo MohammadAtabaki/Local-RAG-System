@@ -28,7 +28,7 @@ It was developed during my internship at **eResult** as a proof-of-concept for a
 ### 1\. Clone & Install Dependencies
 
 ```
-git clone https://github.com/YourUsername/local-rag-poc.git
+git clone https://github.com/MohammadAtabaki/Local-RAG-System.git
 cd Local-RAG-System
 pip install -r requirements.txt
 ```
