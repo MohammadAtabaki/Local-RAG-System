@@ -1,0 +1,89 @@
+# =====================
+# OS / Editor junk
+# =====================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.pytest_cache/
+*.log
+
+# =====================
+# Jupyter / Notebooks
+# =====================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =====================
+# Environments
+# =====================
+.env
+*.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# =====================
+# Data & Artifacts
+# =====================
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.feather
+*.h5
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.csv
+*.tsv
+*.jsonl
+
+# Vector stores / embeddings
+chroma/
+index.faiss
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# =====================
+# Credentials / Keys
+# =====================
+*.pem
+*.key
+*.crt
+id_rsa*
+id_dsa*
+id_ed25519*
+*.enc
+
+# =====================
+# Build / Dist
+# =====================
+build/
+dist/
+*.egg
+*.manifest
+*.spec
+
+# =====================
+# Node (if frontend exists)
+# =====================
+node_modules/
+npm-debug.log
+yarn-error.log

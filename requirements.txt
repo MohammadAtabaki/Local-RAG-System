@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+matplotlib
+PyPDF2
+pillow
+streamlit
+requests
